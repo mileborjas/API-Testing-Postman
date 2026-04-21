@@ -1,6 +1,3 @@
-# API-Testing-Postman
-API functional testing projects using Postman, including collection exports and test documentation.
-
 # API Testing Portfolio 🚀
 
 Este repositorio contiene la documentación técnica y evidencia de pruebas funcionales realizadas sobre servicios web REST utilizando **Postman**.
